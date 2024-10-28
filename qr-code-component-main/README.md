@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  <!-- - [Screenshot](#screenshot) -->
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,11 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-
-### Screenshot of desktop and mobile displays
+<!-- ### Screenshot of desktop and mobile displays
 
 ![](./qr-code-component-main/images/qr_code_desktop_ver.png)
-![](./qr-code-component-main/images/qr_code_mobile_ver.png)
+![](./qr-code-component-main/images/qr_code_mobile_ver.png) -->
 
 ### Links
 
