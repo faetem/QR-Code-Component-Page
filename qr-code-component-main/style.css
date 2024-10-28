@@ -1,8 +1,10 @@
 body {
     background-color: #D5E1EF;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 20px;
     height: 100vh; 
     margin: 0; /*removes scrollbar*/
 }
@@ -40,12 +42,13 @@ img  {
     font-family: 'Outfit', sans-serif;
 }
 
-/* .attribution { 
+.attribution { 
     font-size: 11px; 
     text-align: center; 
-    background-color: lightgreen;
+    color: white;
+    background-color: #4c6a9f;
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
-} */
+    color: white;
+}
